@@ -1,10 +1,13 @@
 # Nada Shaaban  
 ### AI Engineer | Data Scientist
 
-Early-career AI Engineer with hands-on experience in machine learning, computer vision, and data analysis.  
-Experienced in building, evaluating, and deploying end-to-end AI pipelines under real-world constraints, with a strong focus on performance, reliability, and edge deployment.
+I’m a Machine Learning Engineer with hands-on experience building and deploying real-world AI systems, mainly in computer vision.
 
-📄 [Check my CV](https://drive.google.com/file/d/1ywHGbXaamMvhxz4YiGZnDyDW2K_HLKPE/view?usp=sharing)
+I’ve worked across data quality, model training and evaluation, inference optimization, edge deployment, AWS infrastructure, and production monitoring. More recently, I’ve also been working with LLM systems and backend architecture.
+
+I’m especially interested in Computer Vision and AI Engineering roles where I can solve real problems, understand why systems fail, and build things that actually work outside the notebook.
+
+📄 [Check my CV]((https://drive.google.com/file/d/1MFH9JaA1IWSfhpEu8UQQDVBkKLssgLtW/view?usp=drive_link))
 
 ## 🔗 Connect with me
 
