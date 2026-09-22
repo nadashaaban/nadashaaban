@@ -7,7 +7,7 @@ I’ve worked across data quality, model training and evaluation, inference opti
 
 I’m especially interested in Computer Vision and AI Engineering roles where I can solve real problems, understand why systems fail, and build things that actually work outside the notebook.
 
-📄 [Check my CV]((https://drive.google.com/file/d/1MFH9JaA1IWSfhpEu8UQQDVBkKLssgLtW/view?usp=drive_link))
+📄 [Check my CV](https://drive.google.com/file/d/1MFH9JaA1IWSfhpEu8UQQDVBkKLssgLtW/view?usp=drive_link)
 
 ## 🔗 Connect with me
 
